@@ -2,4 +2,4 @@
 
 ![Gen AI](images/generative_AI.jpg)
 
-## [Sign up Here](https://openai.com)
+## [Feb 2024, Sign up Here](https://forms.gle/MTm4weJxbSjShbod6)
