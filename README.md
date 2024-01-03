@@ -4,7 +4,7 @@
 
 ## [Feb 2024, Sign up Here](https://forms.gle/MTm4weJxbSjShbod6)
 
-### Saturday - Sunday from 10:00 AM to 12:00 PM IST
+### Saturday - Sunday from 10:00AM to 12:00PM Timezone IST
 
 ## Project: AI Salesman Chat-BOT
 
@@ -20,6 +20,6 @@
 | 25 Feb | Wrap up | TBD |
 
 Colloborator: 
-    * Dinesh Chopra
-    * Raman Chopra
-    * Mokarbeen Ansari
+ - Dinesh Chopra
+ - Raman Chopra
+ - Mokarbeen Ansari
