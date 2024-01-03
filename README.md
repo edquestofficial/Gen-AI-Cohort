@@ -18,3 +18,8 @@
 | 18 Feb | Product Recomendation | TBD |
 | 24 Feb | Introducing Security | TBD |
 | 25 Feb | Wrap up | TBD |
+
+Colloborator: 
+    * Dinesh Chopra
+    * Raman Chopra
+    * Mokarbeen Ansari
