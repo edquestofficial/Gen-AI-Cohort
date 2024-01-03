@@ -4,7 +4,7 @@
 
 ## [Feb 2024, Sign up Here](https://forms.gle/MTm4weJxbSjShbod6)
 
-### Saturday - Sunday from 10:00 to 12:00
+### Saturday - Sunday from 10:00 AM to 12:00 PM IST
 
 ## Project: AI Salesman Chat-BOT
 
