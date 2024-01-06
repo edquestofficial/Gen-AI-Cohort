@@ -21,7 +21,7 @@
 
 Colloborator: 
 |  PHoto | Name | Linked In | Github |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- |
 | <img src="./2024/feb/images/dinesh_photo.jpg" alt="Dinesh Chopra" width="50" height="50" style="border-radius: 50%" />
  | Dinesh Chopra | [link](https://www.linkedin.com/in/dinesh-chopra/) | [link](https://github.com/DineshChopra) |
 | <img src="./2024/feb/images/raman_photo.jpg" alt="Dinesh Chopra" width="80" height="80" /> | Raman Chopra | [link](https://www.linkedin.com/in/raman-chopra/) | [link](https://github.com/rmnchopra91) |
