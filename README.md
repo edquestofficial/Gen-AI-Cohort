@@ -27,3 +27,33 @@ Colloborator:
 | <img src="./2024/feb/images/dinesh_photo.jpg" alt="Dinesh Chopra" width="50" height="50" /> | Mokarbeen Ansari | [linked_in](https://www.linkedin.com/in/mokarbeenansari/) | [github]() |
 | <img src="./2024/feb/images/dinesh_photo.jpg" alt="Dinesh Chopra" width="50" height="50" /> | Shrikant Rane | [linked_in](https://www.linkedin.com/in/shrikant-rane1806/) | [github]() |
 
+
+<h2>Contributing</h2>
+🤝 We welcome contributions from the community to make Generative AI Cohort even better. If you'd like to contribute, please follow these guidelines:
+<ul>
+<li>
+Fork the repository.
+<li>
+Create a new branch:
+
+```bash
+git checkout -b feature/your-feature-name. 
+```
+
+<li>
+Make your changes and commit them: 
+
+```bash
+git commit -m 'Add some feature'.
+```
+<li>
+Push to your branch:
+
+```bash 
+git push origin feature/your-feature-name.
+```
+<li>
+Create a pull request.
+</ul>
+
+If you have any questions or suggestions, feel free to reach out [Email me](mailto:dinesh1.chopra@gmail.com). Happy Learning! 📋🚀<br>
