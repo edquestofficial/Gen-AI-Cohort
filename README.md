@@ -56,4 +56,4 @@ git push origin feature/your-feature-name.
 Create a pull request.
 </ul>
 
-If you have any questions or suggestions, feel free to reach out [Email me](mailto:dinesh1.chopra@gmail.com). Happy Learning! 📋🚀<br>
+If you have any questions or suggestions, feel free to Email me at <b>dinesh1.chopra@gmail.com</b> Happy Learning! 📋🚀<br>
