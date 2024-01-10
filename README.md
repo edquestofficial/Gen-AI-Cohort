@@ -25,7 +25,7 @@ Colloborator:
 | <img src="./2024/feb/images/vinit.jpg" alt="Vinit Narula" width="50" height="50"/> | Vinit Narula | [linked_in](https://www.linkedin.com/in/vinitnarula/) | [github](https://github.com/vinit-narula) |
 | <img src="./2024/feb/images/dinesh_photo.jpg" alt="Dinesh Chopra" width="50" height="50"/> | Dinesh Chopra | [linked_in](https://www.linkedin.com/in/dinesh-chopra/) | [github](https://github.com/DineshChopra) |
 | <img src="./2024/feb/images/raman_photo.jpg" alt="Dinesh Chopra" width="50" height="50" /> | Raman Chopra | [linked_in](https://www.linkedin.com/in/raman-chopra/) | [github](https://github.com/rmnchopra91) |
-| <img src="./2024/feb/images/icon.png" alt="TBD" width="50" height="50" /> | Mokarbeen Ansari | [linked_in](https://www.linkedin.com/in/mokarbeenansari/) | [github]() |
+| <img src="./2024/feb/images/ansari_photo.png" alt="TBD" width="50" height="50" /> | Mokarbeen Ansari | [linked_in](https://www.linkedin.com/in/mokarbeenansari/) | [github]() |
 | <img src="./2024/feb/images/icon.png" alt="TBD" width="50" height="50" /> | Shrikant Rane | [linked_in](https://www.linkedin.com/in/shrikant-rane1806/) | [github]() |
 
 
