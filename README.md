@@ -2,7 +2,10 @@
 
 ![Gen AI](images/generative_AI.jpg)
 
-## [Feb 2024, Sign up Here](https://forms.gle/MTm4weJxbSjShbod6)
+## Feb 2024, Total Seats = 15, [Sign up Here](https://forms.gle/MTm4weJxbSjShbod6)
+## May 2024, Total Seats = 25, Registration not opened
+## Aug 2024, Total Seats = 35, Registration not opened
+## Nov 2024, Total Seats = 45, Registration not opened
 
 ### Saturday - Sunday from 9:00AM to 11:00AM Timezone IST
 
@@ -28,6 +31,7 @@ Colloborator:
 | <img src="./2024/feb/images/ansari_photo.png" alt="TBD" width="50" height="50" /> | Mokarbeen Ansari | [linked_in](https://www.linkedin.com/in/mokarbeenansari/) | [github]() |
 | <img src="./2024/feb/images/icon.png" alt="TBD" width="50" height="50" /> | Shrikant Rane | [linked_in](https://www.linkedin.com/in/shrikant-rane1806/) | [github]() |
 
+## [Generative AI Short courses](https://www.deeplearning.ai/short-courses/)
 
 <h2>Contributing</h2>
 🤝 We welcome contributions from the community to make Generative AI Cohort even better. If you'd like to contribute, please follow these guidelines:
