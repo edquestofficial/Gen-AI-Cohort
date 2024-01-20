@@ -2,7 +2,7 @@
 
 ![Gen AI](images/generative_AI.jpg)
 
-## Feb 2024, Total Seats = 25, Registration Closee
+## Feb 2024, Total Seats = 25, Registration Closed
 ## May 2024, Total Seats = 25, Registration not opened
 ## Aug 2024, Total Seats = 35, Registration not opened
 ## Nov 2024, Total Seats = 45, Registration not opened
@@ -23,7 +23,7 @@
 | 25 Feb | Wrap up | [Details](./2024/feb/8_wrap_up.md) |
 
 Colloborator: 
-|  PHoto | Name | Linked In | Github |
+|  Photo | Name | Linked In | Github |
 | -------- | -------- | -------- | -------- |
 | <img src="./2024/feb/images/vinit.jpg" alt="Vinit Narula" width="50" height="50"/> | Vinit Narula | [linked_in](https://www.linkedin.com/in/vinitnarula/) | [github](https://github.com/vinit-narula) |
 | <img src="./2024/feb/images/dinesh_photo.jpg" alt="Dinesh Chopra" width="50" height="50"/> | Dinesh Chopra | [linked_in](https://www.linkedin.com/in/dinesh-chopra/) | [github](https://github.com/DineshChopra) |
