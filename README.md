@@ -2,7 +2,7 @@
 
 ![Gen AI](images/generative_AI.jpg)
 
-## Feb 2024, Total Seats = 15, [Sign up Here](https://forms.gle/MTm4weJxbSjShbod6)
+## Feb 2024, Total Seats = 25, Registration Closee
 ## May 2024, Total Seats = 25, Registration not opened
 ## Aug 2024, Total Seats = 35, Registration not opened
 ## Nov 2024, Total Seats = 45, Registration not opened
