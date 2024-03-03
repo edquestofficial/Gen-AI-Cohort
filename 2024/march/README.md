@@ -1,8 +1,9 @@
 * Day 1: Theory
 * Day 2
-    * Create PPT from Chat gpt
-    * Student Assistant
-    * Financial Assistant
+    * Create PPT through ChatGpt
+    * [Hello world with Gemini](./0_Hello_World_with_Gemini_Pro/Hello_World_with_Gemini_Pro.pdf)
+    * [Student Assistant](./1_Student_Assistant/student_assistant.ipynb)
+    * [Financial Assistant](./2_Financial_Assistant/2_Financial_Assistant.ipynb)
 * Day 3
     * Youtube video into transcript and then generate summary
     * Pizza order bot
