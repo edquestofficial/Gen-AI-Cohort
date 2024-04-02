@@ -1,0 +1,47 @@
+<html> 
+    <head>
+        <title>
+            Camera Genie
+        </title>
+        <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+        <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    </head>
+    <body> 
+        <div class="outercontainer">
+            <div class="center">
+                <h1 id="titlestyle">
+                    Camera Genie
+                </h1>
+            </div>
+            <div class="conversationcontainer" id="chatcontainer">
+                {% for entry in conversation_list %}
+                <div class="{% if entry.bot %}bot{% else %}user{% endif %}"> 
+                    {% if entry.bot %}
+                    {{ entry.bot }}
+                    {% else %}
+                    {{ entry.user }}
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+            <!-- action = "/invite" -->
+            <form action = "/converse" method="POST" class="center">
+                <input type ="text" name="user_input" id = "inputtextbox">
+                <input type="submit" value=" " id="submitbutton">
+            </form>
+            <!-- action = "/invite" -->
+            
+    </div>
+
+    <script>
+        // Scroll to the bottom of the chat container on page load and after a new message is sent
+        function scrollToBottom() {
+            var chatContainer = document.getElementById('chatcontainer');
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+    
+        window.onload = scrollToBottom;
+
+    </script>
+</body> 
+</html>
