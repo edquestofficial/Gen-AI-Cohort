@@ -14,9 +14,7 @@ chat = model.start_chat(history = [])
 
 def get_system_message():
     delimiter = "####"
-    # example_user_req = {'GPU intensity': 'high','Display quality': 'high','Portability': 'low','Multitasking': 'high','Processing speed': 'high','budget': '150000'}
-    # example_user_req = {'High Resolution': 'yes','Low Display size': 'yes','Portability': 'yes','High Zoomlens': 'yes','Wifi Connectivity': 'yes','budget': '150000'}
-    example_user_req = {'Portability': 'yes','Wifi Connectivity': 'yes','budget': '150000'}
+    example_user_req = {'portability': 'yes','Wifi Connectivity': 'yes','budget': '15000'}
 
     role = ""
 
@@ -24,9 +22,9 @@ def get_system_message():
 
     You are an intelligent camera gadget expert and your goal is to find the best camera for a user.
     You need to ask relevant questions and understand the user profile by analysing the user's responses.
-    You final objective is to fill the values for the different keys ('Portability','Wifi Connectivity','budget') in the python dictionary and be confident of the values.
+    Your final objective is to fill the values for the different keys ('portability','Wifi Connectivity','budget') in the python dictionary and be confident of the values.
     These key value pairs define the user's profile.
-    The python dictionary looks like this {{'Portability': 'values','Wifi Connectivity': 'values','budget': 'values'}}
+    The python dictionary looks like this {{'portability': 'values','Wifi Connectivity': 'values','budget': 'values'}}
     The values for all keys, except 'budget', should be 'yes' or 'no' based on the importance of the corresponding keys, as stated by user.
     The value for 'budget' should be a numerical value extracted from the user's response.
     The values currently in the dictionary are only representative values.
@@ -42,7 +40,7 @@ def get_system_message():
     To fill the dictionary, you need to have the following chain of thoughts:
     {delimiter} Thought 1: Ask a question to understand the user's profile and requirements. \n
     If their primary use for the camera is unclear. Ask another question to comprehend their needs.
-    You are trying to fill the values of all the keys ('Portability','Wifi Connectivity','budget') in the python dictionary by understanding the user requirements.
+    You are trying to fill the values of all the keys ('portability','Wifi Connectivity','budget') in the python dictionary by understanding the user requirements.
     Identify the keys for which you can fill the values confidently using the understanding. \n
     Remember the instructions around the values for the different keys.
     Answer "Yes" or "No" to indicate if you understand the requirements and have updated the values for the relevant keys. \n
@@ -97,13 +95,13 @@ def intent_confirmation_layer(response_assistant):
     delimiter = "####"
     prompt = f"""
     You are a senior evaluator who has an eye for detail.
-    You are provided an input. You need to evaluate if the input has the following keys: 'Portability','Wifi Connectivity','budget' if any of these key not provided by user then strictly return No. 
+    You are provided an input. You need to evaluate if the input has the following keys: 'portability','Wifi Connectivity','budget' if any of these key not provided by user then strictly return No. 
     Next you need to evaluate if the keys have the the values filled correctly.
     The values for all keys, except 'budget' should be 'yes' or 'no' based on the importance as stated by user. The value for the key 'budget' needs to contain a number with currency.
     Output a string 'Yes' if the input contains the dictionary with the values correctly filled for all keys.
     Otherwise out the string 'No'.
     Here are some input output pairs for better understanding:
-    input: {{ 'Portability': 'no', 'Wifi Connectivity': 'yes',  'budget': '50000'}}
+    input: {{ 'portability': 'no', 'Wifi Connectivity': 'yes',  'budget': '50000'}}
     output: Yes
     input: {{'Wifi Connectivity': 'yes',  'budget': '50000'}}
     output: No
@@ -124,6 +122,9 @@ def extract_dictionary_from_string(string: str) -> dict:
   # Use regular expression to extract exact dictionary part
   regex_pattern = r"\{[^{}]+\}"
   dictionary_matches = re.findall(regex_pattern, string)
+  print("------------------------------------------------")
+  print(dictionary_matches)
+  print("------------------------------------------------")
   dictionary = {}
 
   try:
@@ -166,6 +167,7 @@ def compare_laptop_with_user_req(user_req):
     for key, user_value in user_req.items():
       if key == 'budget':
         continue # Skip budget comparision, its buisness requirement
+      
 
       camera_value = camera_values.get(key, None)
       print(f"key : {key}, camera_value : {camera_value}")

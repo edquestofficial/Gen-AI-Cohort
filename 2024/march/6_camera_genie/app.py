@@ -5,25 +5,30 @@ app = Flask(__name__)
 conversation_bot = []
 welcome_message = start_conversation()
 conversation_bot.append({'bot': welcome_message})
-top_3_laptops = None
+top_3_cameras = None
 
 @app.route("/")
 def default_func():
-    global conversation_bot, conversation, top_3_laptops
+    global conversation_bot, conversation, top_3_cameras
     return render_template("index.html", conversation_list = conversation_bot)
 
 @app.route("/converse", methods = ['POST'])
 def converse():
-    global conversation_bot, conversation, top_3_laptops, conversation_reco
+    global conversation_bot, conversation, top_3_cameras, conversation_reco
     user_input = request.form["user_input"]
     
-    if top_3_laptops is None:
+    if top_3_cameras is None:
         
         prompt = 'Remember your system message and that you are an intelligent camera assistant. So, you only help with questions around camera.'
-        content = user_input + prompt
+        content = user_input + " " + prompt
         conversation_bot.append({'user': user_input})
+        
         response_assistant = get_chat_model_completions(content)
-        print('response_assistant..',response_assistant)
+        
+        # print("---------------------------------------------------------------")
+        # print('response_assistant..',response_assistant)
+        # print("---------------------------------------------------------------")
+
         confirmation = intent_confirmation_layer(response_assistant)
         print('confirmation..',confirmation)
 
@@ -36,10 +41,10 @@ def converse():
 
             conversation_bot.append({'bot':"Thank you for providing all the information. Kindly wait, while I fetch the products: \n"})
             print("user requirement :::: ", response)
-            top_3_laptops = compare_laptop_with_user_req(response)
-            print("top_3_laptops ---- ", top_3_laptops)
+            top_3_cameras = compare_laptop_with_user_req(response)
+            print("top_3_cameras ---- ", top_3_cameras)
 
-            validated_reco = recommendation_validation(top_3_laptops)
+            validated_reco = recommendation_validation(top_3_cameras)
 
             if len(validated_reco) == 0:
                 conversation_bot.append({'bot':"Sorry, we do not have camera that match your requirements. Connecting you to a human expert. Please end this conversation."})
