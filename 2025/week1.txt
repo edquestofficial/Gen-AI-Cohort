@@ -1,0 +1,41 @@
+Week1: Introduction to Prompt Engineering
+
+- What is Prompt and Prompt Engineering?
+- Access to The prompt engineering course on Deep learning.ai
+- Completion of the course
+- Fine tuning of prompts and Doubts Class 
+- 2 ChatBots Created - One from the course and Other on their own
+
+Chatbots made:
+
+1. Ayush Dixit
+
+ChatBot Name :rizo chatbot
+
+Problem: Find the optimal route for a delivery truck that must visit 10 locations exactly once and return to the starting point (Traveling Salesman Problem).
+
+Purpose: To minimize total travel distance, saving fuel and delivery time, which improves operational efficiency.
+
+GitHub Repository Link :https://github.com/Ay7753/sample-repo-github-desktop-tutorial
+
+
+2. Amit Srivastava
+
+ChatBot Name :order chatbot
+
+Problem\purpose =Interact with customer to collect the Pizza order
+
+ChatBot Name: Insurance advisor chatbot.
+
+Problem\Purpose--> Advice the customer benefits of insurance step by step and detailed manner after gathering all the required information.
+
+https://github.com/Amitconnect/AILearning/tree/main/ 
+
+
+3. Yogesh Bhatt
+
+ChatBot Name :  travel planning chat bot 
+
+Problem/Purpose : Assist travelers in discovering the tourist destinations of Uttarakhand.
+
+GitHub Repository Link :  https://github.com/yogii2356/chatbot-usining-prompt- 
