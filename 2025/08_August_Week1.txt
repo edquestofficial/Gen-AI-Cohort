@@ -29,7 +29,7 @@ ChatBot Name: Insurance advisor chatbot.
 
 Problem\Purpose--> Advice the customer benefits of insurance step by step and detailed manner after gathering all the required information.
 
-https://github.com/Amitconnect/AILearning/tree/main/ 
+GitHub Repository Link : https://github.com/Amitconnect/AILearning/tree/main/ 
 
 
 3. Yogesh Bhatt
@@ -39,3 +39,21 @@ ChatBot Name :  travel planning chat bot
 Problem/Purpose : Assist travelers in discovering the tourist destinations of Uttarakhand.
 
 GitHub Repository Link :  https://github.com/yogii2356/chatbot-usining-prompt- 
+
+
+4. Harshdeep
+
+ChatBot Name: GK Chatbot
+
+Problem/Purpose: Answer general knowledge questions in an interactive way using Python.
+
+GitHub Repository Link: https://github.com/Harshdeep-77/Gkchatbot 
+
+
+5. Govind
+
+ChatBot Name :  Orderbot
+
+Problem/Purpose : Help customer  to order something to eat
+
+GitHub Repository Link:   https://github.com/govind9588/orderbot 
