@@ -1,10 +1,11 @@
-Week1: Introduction to Prompt Engineering
+Week1: Prompt Engineering and Introduction to RAG
 
-- What is Prompt and Prompt Engineering?
-- Access to The prompt engineering course on Deep learning.ai
-- Completion of the course
-- Fine tuning of prompts and Doubts Class 
-- 2 ChatBots Created - One from the course and Other on their own
+- Prompting Techniques and their use in prompts
+- Reviewing all the ChatBots with specified techniques
+- Limitations of Prompt Engineering
+- Introduction to RAG 
+
+- Weekend task - To go through the "Generative AI for everyone" course
 
 Chatbots made:
 
@@ -57,3 +58,13 @@ ChatBot Name :  Orderbot
 Problem/Purpose : Help customer  to order something to eat
 
 GitHub Repository Link:   https://github.com/govind9588/orderbot 
+
+
+6. Kuldeep
+
+ChatBot Name :  GK Chatbot
+
+Problem/Purpose : increasing your gk knowledge
+
+GitHub Repository Link:   https://github.com/kuldeep6741/GKchatbot.git
+

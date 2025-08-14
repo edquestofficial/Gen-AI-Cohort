@@ -1,0 +1,10 @@
+Week1: Introduction to Prompt Engineering
+
+- What is Prompt and Prompt Engineering?
+- Access to The prompt engineering course on Deep learning.ai
+- Completion of the course
+- Fine tuning of prompts and Doubts Class 
+- Created the ChatBot from the course only
+
+- Weekend Task -  to brainstorm and create own ChatBots 
+
