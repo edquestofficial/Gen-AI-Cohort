@@ -1,0 +1,13 @@
+Week3: Introduction to RAG
+
+- Dinesh Sir introduced with RAG for a couple of days 
+- Introduction to Chunking 
+- Practical done
+- Introduction to Embeddings
+- Practical Done 
+- Introduction to Vector Databases
+
+- Weekend task - To insert the embeddings into Vector DB and try to get the retrieval part done
+
+- Amit was excellent throughout
+- Kuldeep, Ayush, Harshdeep did decent

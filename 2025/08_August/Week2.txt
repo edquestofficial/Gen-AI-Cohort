@@ -1,4 +1,4 @@
-Week1: Prompt Engineering and Introduction to RAG
+Week2: Prompt Engineering and Introduction to RAG
 
 - Prompting Techniques and their use in prompts
 - Reviewing all the ChatBots with specified techniques
