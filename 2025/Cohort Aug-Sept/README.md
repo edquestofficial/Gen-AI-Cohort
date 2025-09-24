@@ -1,4 +1,4 @@
-# 🚀 Generative AI Cohort - Learning Journey (Aug-Sept 2025)
+# Generative AI Cohort - Learning Journey (Aug-Sept 2025)
 
 Welcome to the **Generative AI Cohort 2025**! 
 
