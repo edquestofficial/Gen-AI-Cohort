@@ -88,6 +88,6 @@ This was just the beginning! Our learners are now ready to build **real-world Ge
 
 Stay tuned for more cohorts, advanced sessions, and corporate training programs. 🚀  
 
-## 🌐 Our Learners
+## 👥 Our Community
 
 Ayush Kumar Dixit, Yogesh Bhatt, Govind, Kuldeep, Harshdeep, Amit Srivastava, Dheeraj Kumawat, Arpit, Rohit
