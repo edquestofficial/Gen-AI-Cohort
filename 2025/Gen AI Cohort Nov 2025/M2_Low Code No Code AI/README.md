@@ -1,0 +1,3 @@
+- Introduction of Low Code No Code Tools.
+- Industry standards Low Code No Code Platforms - Make, Zapier
+- - **Hands on Project : LinkedIn Post Automation Tool** 

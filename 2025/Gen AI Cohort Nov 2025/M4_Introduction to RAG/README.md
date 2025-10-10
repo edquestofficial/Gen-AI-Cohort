@@ -1,0 +1,5 @@
+- Introduction of RAG.
+- Core Components of RAG
+- Understanding the core components with Hands on approach
+- Mastering Advanced RAG: Optimization and Contextual Retrieval
+- **Hands on Project : AskMyDocs**

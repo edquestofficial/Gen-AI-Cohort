@@ -1,0 +1,3 @@
+- Introduction to LangChain
+- Understanding how RAG works in LangChain
+- **Hands on Project : NewsMind**

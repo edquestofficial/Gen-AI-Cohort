@@ -1,0 +1,2 @@
+- What is Generative AI, how does it operate, its  use cases, and its limitations?
+- Deep Dive into Basics - LLMs, Transformers, Diffusion Models

@@ -1,0 +1,4 @@
+- Introduction of Prompt Engineering.
+- Prompting Techniques :Zero Shot, Few Shot and Chain of Thoughts
+- Best Prompting Practices in the industry
+- **Hands on Project : MealMate**
