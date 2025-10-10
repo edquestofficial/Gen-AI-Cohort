@@ -9,6 +9,9 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 [Click here to Register for Generative Cohort Nov 2025](https://forms.gle/tkwJH5X1i175JmTL6)
 
+![Gen AI Cohort Banner](images/gen_ai_cohort_image.png)
+
+
 ## 📅 Detailed Course Timeline
 
 ## 📌 Month 1 – Foundations & Generative AI
@@ -97,7 +100,5 @@ Learn best practices for integrating multiple AI pipelines in real-world applica
 
 - Gain real-world readiness for **Generative AI applications**.
 
-## Follow Us 
 
-- 
 
