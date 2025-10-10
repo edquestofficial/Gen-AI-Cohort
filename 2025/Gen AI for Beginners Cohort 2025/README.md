@@ -1,153 +1,96 @@
-# The Generative AI Cohort 2025 
+# The Generative AI Cohort Nov 2025 
 
-This was a **3 months hands-on journey** into the world of Generative AI, where passionate learners explored the **foundations, Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, and LangGraph.**
+This was a **3 months hands-on journey** into the world of Generative AI, where passionate learners explored the **Foundations, Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, LangGraph and Model Context Protocol (MCP)**
 
-We met **3 times a week** for interactive classes, discussions, and coding labs.
-Each module concluded with a **Major project**, supported by mini-projects in between to reinforce learning. 
+We will meet **3 times a week** for interactive classes, discussions, and coding labs.
+Each module will get concluded with a **Major project**, supported by multiple mini-projects in between to reinforce learning. 
 
-[Generative AI for Everyone Youtube Playlist](https://youtube.com/playlist?list=PL7E7TYb0_SgEQz4g1doHXHL6F05h2GRYi&si=dsmATytI1wKkNNiP)
+[Click here to Register for Generative Cohort Nov 2025](https://forms.gle/tkwJH5X1i175JmTL6)
 
 ## 📅 Detailed Course Timeline
 
-## 📌 Month 1 – Foundations & Prompt Engineering
+## 📌 Month 1 – Foundations & Generative AI
 
-### 📍 Week 1: Foundations of Generative AI
+### Foundations
 
-- What is Generative AI?
+- Learn the basics of AI, its types, and key concepts that power intelligent systems.
 
-- Use Cases of Generative AI
-
-- LLMs in Generative AI
-
-- Transformer architecture basics
-
-- Structure of Diffusion Models
+- Understand real-world AI applications and the evolution of AI technologies.
 
 
-### 📍 Week 2: Basics of Prompt Engineering
+### Introduction to Generative AI
 
-- Prompt structure & use cases
+- Explore the principles of Generative AI and how LLMs and diffusion models generate content.
 
-- Hands-on with DeepLearning.AI course
+- Study transformer architecture and understand why generative models are transforming industries.
 
-- Fine-tuning prompts
+
+### Low-Code/No-Code AI Tools
+
+- Learn to automate AI workflows without coding using Make and Zapier.
+
+- Connect APIs, trigger AI tasks, and build functional AI pipelines efficiently.
+
+**Major Project:** LinkedIn Post Automation Tool
+
+**Skills covered**: Generative AI Basics, Low-Code/No-Code Workflow Automation
+
+## 📌 Month 2 – Prompt Engineering & Retrieval-Augmented Generation (RAG)
+
+### Prompt Engineering
+
+- Understand how to structure effective prompts for LLMs to achieve accurate and relevant outputs.
+
+- Learn techniques like zero-shot, few-shot, chain-of-thought, and style/persona prompting.
+
+**Major Project:** MealMate - A food ordering bot
+
+### Introduction to Retrieval Augmented Generation (RAG)
+
+- Learn the concept of Retrieval-Augmented Generation and why it improves LLM outputs.
+
+- Study chunking, embeddings, and vector databases for efficient knowledge retrieval.
   
-**Mini Project: Role-based prompting on a given situation**
+**Major Project:** AskMyDocs - A QnA bot that uses LLMs and answers for questions from your uploaded document
 
-### 📍 Week 3: Prompting Techniques
+### RAG in LangChain
 
-- Zero-shot, Few-shot, Chain-of-Thought prompting techniques
+- Implement RAG pipelines in LangChain for end-to-end question-answering systems.
 
-- Style & persona prompts
+- Cover reranking, evaluation, and integration with vector databases for scalable solutions.
 
-**Mini Project: Math reasoning assistant (CoT), News summarizer**
+**Major Project:** NewsMind - Advanced RAG based applications that retrieves, compares and summarizes news and gives context-rich responses.
 
-### 📍 Week 4: Prompt Engineering Project Week
+**Skills covered**: Prompt Engineering & Evaluation, RAG Pipeline Design, Embeddings & Vector Databases, Semantic Search & Reranking, LangChain Workflow Implementation
 
-- Major Project: Custom Prompt-Engineered Chatbot
 
-- Build a chatbot for a chosen domain (finance, movies, or healthcare).
+## 📌 Month 3 – Agentic AI & LangGraph Orchestration
 
-- Integrates multiple prompting techniques: role-based, few-shot, style prompts
+### Agentic AI in LangGraph
 
-- Handles real queries with dynamic, accurate, and context-aware responses
+- Learn to orchestrate AI workflows with nodes, states, and edges for intelligent agents.
 
-- **Skills covered**: Prompt Engineering, Multi-turn Dialogue, Testing & Evaluation.
+- Implement conditional, sequential, and parallel workflows with memory and checkpoints.
 
-## 📌 Month 2 – Retrieval-Augmented Generation (RAG)
+**Major Project:** CineGraph - A movie recommendation agentic system that picks the best movie for according to your preferences.
 
-### 📍 Week 5: Introduction to RAG
+### MCP (Model Context Protocol)
 
-- Why RAG?
+- Understand how to manage context, memory, and state across LLM and agent workflows.
 
-- Chunking, embeddings basics
+Learn best practices for integrating multiple AI pipelines in real-world applications.
 
-**Mini Project: Chunk a PDF + embeddings**
+**Major Project:** ServerSend - AI powered automated email management providing contextual insights
 
-### 📍 Week 6: RAG Theory & Databases
+**Skills covered**: Introduction to LangGraph Integration, Agent Workflow Design & Orchestration, Memory Management & Context Handling, Multi-Agent Communication & Checkpointing, Scalable AI Pipeline Development
 
-- Vector DBs (FAISS, Pinecone)
-
-- Semantic search explained
-
-**Mini Project: Semantic search engine for a small document collection**
-
-### 📍 Week 7: Advanced RAG Concepts
-
-- Reranking
-
-- Evaluating retrieval quality
-
-**Mini Project: Build a reranker to improve answers in the semantic search engine**
-
-### 📍 Week 8: RAG Project Week
-
-- Major Project: RAG-powered Question Answering Bot
-
-- Upload a knowledge base (e.g., company policies, research papers).
-
-- Split into chunks, embed, and store in vector DB.
-
-- Implement **Retrieval → Rerank → LLM** response pipeline.
-
-- Features: high-quality, context-aware answers; scalable for large datasets
-
-- **Skills covered**: RAG pipeline, Embeddings, Semantic Search, Reranking.
-
-## 📌 Month 3 – LangChain & LangGraph
-
-### 📍 Week 9: Introduction to LangGraph
-
-- LangChain vs LangGraph
-
-- Nodes, States, Edges
-
-**Mini Project: Simple 2-node workflow (input → LLM → output)**
-
-### 📍 Week 10: Workflow Design
-
-- Conditional, Sequential, Parallel workflows
-
-**Mini Project: Decision-based workflow: input routed to Q&A node or story generation node**
-
-### 📍 Week 11: Memory & Checkpointers
-
-- Saving state across sessions
-
-- Debugging and scaling workflows
-
-**Mini Project: Memory-enabled assistant remembering user preferences and previous conversations**
-
-### 📍 Week 12: Agentic AI Assistant Project Week
-
-- Major Project: End-to-End AI Assistant (RAG + LangChain + LangGraph)
-
-- Combines RAG pipeline + LangChain pipeline + LangGraph orchestration
-
-- Supports memory, checkpointing, and conditional flows
-
-- **Skills Covered** - RAG + LangChain integration, LangGraph workflow orchestration, Memory and Checkpointers, Conditional and Parallel Workflows
-
-#### Example Use Cases:
-
-- **HR Bot**: Answers employee queries from handbook
-
-- **Legal Bot**: Retrieves and explains case files
-
-- **Student Assistant**: Tutors learners with uploaded study material
-
-  
 
 ## 🏆 Achievements
 
-- Built **10+ Mini-Projects** across prompting, RAG, and workflows
+- Reached out to various educational institutions and colleges, **selecting 500+ students and industry professionals** and training them in Generative AI.
 
-- Delivered **3 Major Projects** (Q&A System, Chatbot, RAG Bot)
+- Build **10+ Mini-Projects** across Prompt Engineering, RAG, and AI Workflows.
 
-- Completed **Production Style AI Assistant**
+- Delivered **5 Major Projects**
 
-- Gained real-world readiness for Generative AI applications
-
-## 👥 Our Community
-
-Ayush Kumar Dixit, Yogesh Bhatt, Govind, Kuldeep, Harshdeep, Amit Srivastava, Dheeraj Kumawat, Arpit, Rohit
+- Gain real-world readiness for **Generative AI applications**.
