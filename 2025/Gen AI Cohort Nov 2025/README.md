@@ -96,3 +96,8 @@ Learn best practices for integrating multiple AI pipelines in real-world applica
 - Delivered **5 Major Projects**
 
 - Gain real-world readiness for **Generative AI applications**.
+
+## Follow Us 
+
+- 
+
