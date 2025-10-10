@@ -2,7 +2,7 @@
 
 This is a **3 months hands-on journey** into the world of Generative AI, where passionate learners will get to explore about **Foundations, Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, LangGraph and Model Context Protocol (MCP)**
 
-[Gen AI Cohort Nov 2025 Roadmap](Gen-AI-Cohort\Docs\Gen AI Cohort Nov 2025 Roadmap.pdf)
+[View Gen AI Cohort Nov 2025 Roadmap](Docs/Gen%20AI%20Cohort%20Nov%202025%20Roadmap.pdf)
 
 We will meet **3 times a week** for interactive classes, discussions, and coding labs.
 Each module will get concluded with a **Major project**, supported by multiple mini-projects in between to reinforce learning. 
@@ -33,9 +33,9 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 - Connect APIs, trigger AI tasks, and build functional AI pipelines efficiently.
 
-**Major Project:** LinkedIn Post Automation Tool
+**Major Project: LinkedIn Post Automation Tool**
 
-**Skills covered**: Generative AI Basics, Low-Code/No-Code Workflow Automation
+**Skills covered: Generative AI Basics, Low-Code/No-Code Workflow Automation**
 
 ## 📌 Month 2 – Prompt Engineering & Retrieval-Augmented Generation (RAG)
 
@@ -45,7 +45,7 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 - Learn techniques like zero-shot, few-shot, chain-of-thought, and style/persona prompting.
 
-**Major Project:** MealMate - A food ordering bot
+**Major Project: MealMate** - A food ordering bot
 
 ### Introduction to Retrieval Augmented Generation (RAG)
 
@@ -53,7 +53,7 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 - Study chunking, embeddings, and vector databases for efficient knowledge retrieval.
   
-**Major Project:** AskMyDocs - A QnA bot that uses LLMs and answers for questions from your uploaded document
+**Major Project: AskMyDocs** - A QnA bot that uses LLMs and answers for questions from your uploaded document
 
 ### RAG in LangChain
 
@@ -61,9 +61,9 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 - Cover reranking, evaluation, and integration with vector databases for scalable solutions.
 
-**Major Project:** NewsMind - Advanced RAG based applications that retrieves, compares and summarizes news and gives context-rich responses.
+**Major Project: NewsMind** - Advanced RAG based applications that retrieves, compares and summarizes news and gives context-rich responses.
 
-**Skills covered**: Prompt Engineering & Evaluation, RAG Pipeline Design, Embeddings & Vector Databases, Semantic Search & Reranking, LangChain Workflow Implementation
+**Skills covered: Prompt Engineering & Evaluation, RAG Pipeline Design, Embeddings & Vector Databases, Semantic Search & Reranking, LangChain Workflow Implementation**
 
 
 ## 📌 Month 3 – Agentic AI & LangGraph Orchestration
@@ -74,7 +74,7 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 - Implement conditional, sequential, and parallel workflows with memory and checkpoints.
 
-**Major Project:** CineGraph - A movie recommendation agentic system that picks the best movie for according to your preferences.
+**Major Project: CineGraph** - A movie recommendation agentic system that picks the best movie for according to your preferences.
 
 ### MCP (Model Context Protocol)
 
@@ -82,9 +82,9 @@ Each module will get concluded with a **Major project**, supported by multiple m
 
 Learn best practices for integrating multiple AI pipelines in real-world applications.
 
-**Major Project:** ServerSend - AI powered automated email management providing contextual insights
+**Major Project: ServerSend** - AI powered automated email management providing contextual insights
 
-**Skills covered**: Introduction to LangGraph Integration, Agent Workflow Design & Orchestration, Memory Management & Context Handling, Multi-Agent Communication & Checkpointing, Scalable AI Pipeline Development
+**Skills covered: Introduction to LangGraph Integration, Agent Workflow Design & Orchestration, Memory Management & Context Handling, Multi-Agent Communication & Checkpointing, Scalable AI Pipeline Development**
 
 
 ## 🏆 Achievements
@@ -93,7 +93,7 @@ Learn best practices for integrating multiple AI pipelines in real-world applica
 
 - Build **10+ Mini-Projects** across Prompt Engineering, RAG, and AI Workflows.
 
-- Delivered **5 Major Projects**
+- Strengthen your resume with **5 Major AI Projects** 
 
 - Gain real-world readiness for **Generative AI applications**.
 
