@@ -2,7 +2,7 @@
 
 This is a **3 months hands-on journey** into the world of Generative AI, where passionate learners will get to explore about **Foundations, Prompt Engineering, Retrieval-Augmented Generation (RAG), LangChain, LangGraph and Model Context Protocol (MCP)**
 
-[View Gen AI Cohort Nov 2025 Roadmap](2025/Gen%20AI%20Cohort%20Nov%202025/Docs/Gen%20AI%20Cohort%20Nov%202025%20Roadmap.pdf)
+[View Gen AI Cohort Nov 2025 Roadmap](Gen-AI-Cohort/Docs/Gen%20AI%20Cohort%20Nov%202025%20Roadmap.pdf)
 
 We will meet **3 times a week** for interactive classes, discussions, and coding labs.
 Each module will get concluded with a **Major project**, supported by multiple mini-projects in between to reinforce learning. 
